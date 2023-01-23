@@ -14,3 +14,4 @@ fi
 echo "this is change added in Remote Repo"
 echo "add new line"
 echo "adding this change for remote merging"
+echo "adding a line"
